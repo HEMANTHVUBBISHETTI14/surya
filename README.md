@@ -3,12 +3,12 @@
 !Banner
 
 ## About Me
-- **Name**: Gurupati10003
-- **Profile Views**: 16,864
-- **Repositories**: 30
-- **Years of Experience**: 2
-- **Commits this Month**: 1955
-- **Followers**: 118
+- **Name**: vubbishetti hemanth kumar
+- **Profile Views**: 1
+- **Repositories**: 1
+- **Years of Experience**: 0
+- **Commits this Month**: 2004
+- **Followers**: 0
 
 ## Pinned Repository
 - Data Scientist and AI Developer
